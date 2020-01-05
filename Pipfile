@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = {index = "https://pypi.python.org/simple/",version = "*"}
+flake8 = {index = "https://pypi.python.org/simple/",version = "*"}
+rope = {index = "https://pypi.python.org/simple/",version = "*"}
+
+[packages]
+
+[requires]
+python_version = "3.7"
