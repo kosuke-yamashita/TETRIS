@@ -9,6 +9,7 @@ flake8 = {index = "https://pypi.python.org/simple/",version = "*"}
 rope = {index = "https://pypi.python.org/simple/",version = "*"}
 
 [packages]
+pyqt5 = {index = "https://pypi.python.org/simple/",version = "*"}
 
 [requires]
 python_version = "3.7"
